@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Archivos secretos
+.env
+
+# Audios
+*.mp3
+*.wav
+
+# Binarios
+*.dll
+*.pyd
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
