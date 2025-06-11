@@ -1,4 +1,6 @@
-flask
-speechrecognition
-pyttsx3
-openai
+Flask==2.3.3
+python-dotenv==1.0.1
+boto3==1.34.85
+pydub==0.25.1
+openai==1.13.3
+gtts==2.5.1
